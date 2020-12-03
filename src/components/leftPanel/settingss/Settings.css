@@ -1,0 +1,9 @@
+.settings{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.settings_icon{
+    background: url('../../../images/icons/setting.png') no-repeat center;
+}

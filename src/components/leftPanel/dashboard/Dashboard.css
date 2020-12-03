@@ -1,0 +1,7 @@
+.dashboard_icon{
+    background: url('../../../images/icons/dashboard.png') no-repeat center;
+}
+
+.manu_item_active .dashboard_icon{
+    background: url('../../../images/icons/dashboard_active.png') no-repeat center;
+}
